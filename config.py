@@ -1,6 +1,6 @@
 HOST = "localhost"
 USER = "root"
-PASSWORD = "Login1234!"
+PASSWORD = "enter password"
 
 """
 Poppy's mySQL details above. Please complete with your own to run.
